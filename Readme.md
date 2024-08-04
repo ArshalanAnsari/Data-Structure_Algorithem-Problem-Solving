@@ -24,3 +24,6 @@
 -[4Sum -try with twoPointes](https://leetcode.com/problems/4sum/description/)
 -[Move Zeros](https://leetcode.com/problems/move-zeroes/description/)
 -[Take k character](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/description/)
+
+## Sorting
+-[selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
