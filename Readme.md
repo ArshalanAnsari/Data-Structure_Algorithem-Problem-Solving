@@ -13,6 +13,9 @@
 - [2 Sum and 2Sum 2 with Hashing](https://leetcode.com/problems/two-sum/description/)
 - [First non repeating Charactor](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
 
+## Sorting
+-[selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
+
 ### Homework Questions
 
 ## Adhoc
@@ -26,4 +29,7 @@
 -[Take k character](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/description/)
 
 ## Sorting
--[selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
+
+-[Implement bubble sort using recursion without any single loop.]
+-[Implement selection sort using recursion.]
+-[Merge two sorted arrays - Solve it without using extra result array](https://leetcode.com/problems/merge-sorted-array/description/)
