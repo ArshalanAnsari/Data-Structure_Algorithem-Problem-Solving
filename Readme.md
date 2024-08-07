@@ -15,6 +15,7 @@
 
 ## Sorting
 -[selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
+-[Merge two Sorted Arrays](https://leetcode.com/problems/merge-sorted-array/submissions/1347443041/)
 
 ### Homework Questions
 
@@ -33,3 +34,6 @@
 -[Implement bubble sort using recursion without any single loop.]
 -[Implement selection sort using recursion.]
 -[Merge two sorted arrays - Solve it without using extra result array](https://leetcode.com/problems/merge-sorted-array/description/)
+-[Inversion count](https://www.spoj.com/problems/INVCNT/) (Hint: Think with Merge sort)
+-[Count of smaller numbers after self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) (Hint: Think with Merge sort)
+-[Make array 0 by subtracting equal amount](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/description/)
